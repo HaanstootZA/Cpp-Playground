@@ -1,0 +1,1 @@
+char *FileExt = const_cast<char*> ( path.c_str() );
